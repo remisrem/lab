@@ -1,0 +1,1 @@
+REG DELETE HKEY_CLASSES_ROOT\Directory\Background\shellex\ContextMenuHandlers\igfxcui
